@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
-  "apkUrl": "https://oss.lliyuu520.cn/apk/20261119/poem_quiz_0.2.1_3.apk",
-  "notes": "修复应用内检查更新、图标更新为「日知」"
+  "versionCode": 4,
+  "versionName": "0.2.2",
+  "apkUrl": "https://oss.lliyuu520.cn/apk/20261119/poem_quiz_0.2.2_4.apk",
+  "notes": "修复应用内检查更新（多源回退），图标更新为「日知」"
 }
