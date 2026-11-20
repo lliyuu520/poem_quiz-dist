@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.2.4",
-  "apkUrl": "https://oss.lliyuu520.cn/apk/20261120/poem_quiz_0.2.4_6.apk",
-  "notes": "修复应用内更新：改用新版安装器，解决下载后无法安装的问题"
+  "versionCode": 7,
+  "versionName": "0.3.0",
+  "apkUrl": "https://oss.lliyuu520.cn/apk/20261120/poem_quiz_0.3.0_7.apk",
+  "notes": "新增英语科目：字母与拼读、主题词、日常短句，共 82 个条目。以听为主——听音选词、听句选义、认词义、大小写、拼单词五类题型，标准读音随点随听。插图内置矢量绘制，不占体积。"
 }
