@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
-  "apkUrl": "https://oss.lliyuu520.cn/apk/20261119/poem_quiz_0.2.2_4.apk",
-  "notes": "修复应用内检查更新（多源回退），图标更新为「日知」"
+  "versionCode": 5,
+  "versionName": "0.2.3",
+  "apkUrl": "https://oss.lliyuu520.cn/apk/20261120/poem_quiz_0.2.3_5.apk",
+  "notes": "推荐学龄与练习范围分离，可自由升档挑战；首页改为整页布局，切科更流畅"
 }
